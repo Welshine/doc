@@ -1,6 +1,6 @@
 ### 电子商城-前台
 
-[cinwell website](http://www.welshine.shop ':include :type=iframe width=100% height=800px')
+![](https://www.showdoc.cc/server/api/common/visitfile/sign/3a4ca86f22fca828979654afa36040ba?showdoc=.jpg)
 
 #### 技术栈
 
@@ -29,6 +29,10 @@ vue全家桶 + eslint + babel + scss + es6 + ajax + thymeleaf + 七牛云cdn + v
 - 日志： codemirror
 
 - 适量图标： iconfont + svg
+
+#### 项目地址
+
+https://github.com/Welshine/PC
 
 #### 当前进度
 

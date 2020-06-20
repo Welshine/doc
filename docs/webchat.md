@@ -24,7 +24,7 @@
 
 #### UI
 
-在线查看： [蓝狐设计图稿](https://lanhuapp.com/web/#/item/project/board?pid=9b0873d5-c127-4d17-8c95-b11157a6c4dc "蓝狐设计图稿")
+在线查看： [蓝湖设计图稿](https://lanhuapp.com/web/#/item/project/board?pid=9b0873d5-c127-4d17-8c95-b11157a6c4dc "蓝湖设计图稿")
 
 本地文件： 我的电脑跳转`\\192.168.2.3\市场部\网络电商\UI交接\`
 
@@ -33,3 +33,5 @@
 [下载查看](https://cdn.welshine.com/Ebook.xlsx "小程序运营方案")
 
 #### 二维码
+
+![](https://cdn.welshine.com/E-book.jpg)

@@ -4,7 +4,7 @@
 
 ?> 商品展示、企业中英双模板、动态链接、QQ联系
 
-[cinwell website](http://www.welshine.com ':include :type=iframe width=100% height=800px')
+![](http://wap.welshine.com/%E6%83%A0%E8%80%8C%E4%BF%A1%E5%95%86%E7%94%A8%E8%AE%BE%E5%A4%87%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8.png)
 
 #### 备案域名
 
